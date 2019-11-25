@@ -1,0 +1,8 @@
+[DEFAULT]
+haKey = XXXXXXX
+haAddress = hassio
+haPort = 8123
+easeeAddress = 192.168.100.23
+easeePin= 1234
+mqttUser = user
+mqttPass= password
